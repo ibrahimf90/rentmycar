@@ -40,11 +40,11 @@ PHP 8+ for business logic, session management, authentication, and database oper
 
 ### Database
 
-MySQL/MariaDB for secure storage of customer information, vehicle records, reservations, and administrative data.
+MySQL for secure storage of customer information, vehicle records, reservations, and administrative data.
 
 ### Frontend
 
-HTML5, CSS3, JavaScript, and Bootstrap for responsive design and interactive user experience.
+HTML5, CSS3, JavaScript, and responsive design and interactive user experience.
 
 ### Security
 
