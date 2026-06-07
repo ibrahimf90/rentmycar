@@ -1,6 +1,6 @@
 ## Rent My Car — Smart Vehicle Rental Management Platform
 
-This comprehensive car rental management system provides a streamlined platform for customers to browse, reserve, and manage vehicle rentals with ease. Built using PHP and MySQL, the application combines secure user authentication with a centralized administration panel, enabling efficient management of vehicles, bookings, and customer accounts. The system is designed with scalability in mind, making it suitable for both small rental businesses and expanding vehicle fleets.
+This comprehensive car rental management system provides a streamlined platform for customers to browse, reserve, and manage vehicle rentals with ease. Built using PHP and MySQL, the application combines secure user authentication, enabling efficient management of bookings, and customer accounts. The system is designed with scalability in mind, making it suitable for both small rental businesses and expanding vehicle fleets.
 
 ## Key Features
 
@@ -8,17 +8,9 @@ This comprehensive car rental management system provides a streamlined platform 
 
 Robust registration and login system powered by PHP sessions, ensuring secure access and protection of customer accounts.
 
-### Vehicle Inventory Management
-
-Administrators can add, edit, update, and remove vehicle listings while maintaining accurate availability records.
-
 ### Online Reservation System
 
 Customers can browse available vehicles, view detailed information, and submit rental requests through an intuitive booking interface.
-
-### Administrative Dashboard
-
-A centralized control panel for managing vehicles, customer accounts, reservations, and overall rental operations.
 
 ### Dynamic Content Updates
 
@@ -40,7 +32,7 @@ PHP 8+ for business logic, session management, authentication, and database oper
 
 ### Database
 
-MySQL for secure storage of customer information, vehicle records, reservations, and administrative data.
+MySQL for secure storage of customer information and reservations.
 
 ### Frontend
 
